@@ -99,6 +99,6 @@ cd brain_tumor_detection
 
 ## Contributors
 
-- **Your Name** - [GitHub Profile](https://github.com/jai-nithish)
-- **Collaborator Name** - [GitHub Profile](https://github.com/jai-nithish)
+- **Your Name** - [GitHub Profile](https://github.com/Pradeepking19)
+
 
