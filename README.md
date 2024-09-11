@@ -94,8 +94,7 @@ As shown in the image, the Random Forest algorithm achieves the highest accuracy
 To clone and run this project locally, follow these steps:
 
 ``bash
-git clone https://github.com/jai-nithish/brain_tumor_detection.git
-cd brain_tumor_detection
+git clone https://github.com/Pradeepking19/BrainTumor_Detection.git
 
 ## Contributors
 
